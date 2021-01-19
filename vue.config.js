@@ -5,7 +5,5 @@ module.exports = {
         sourceMap: process.env.NODE_ENV !== "production" ? true : false
       }
     }
-  },
-  publicPath: '/johndp/'
-
+  }
 };
