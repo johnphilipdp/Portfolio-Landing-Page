@@ -6,5 +6,5 @@ module.exports = {
       },
     },
   },
-  publicPath: '/Portfolio-Landing-Page/',
+  publicPath: '/johndp/',
 };
